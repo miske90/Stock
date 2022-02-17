@@ -1,2 +1,2 @@
-# Stcok
+# Stock
 Stock Windows Application
